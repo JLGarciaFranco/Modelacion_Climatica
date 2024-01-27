@@ -3,7 +3,9 @@
 ### ENCiT, UNAM. 
 #### Jorge L. García Franco jorge.garciafranco@encit.unam.mx
 
-Notebooks de clase
+En este repositorio encontrarás los notebooks de clase para cada tema. 
+
+#### Notebooks de clase
 
 ### Tema 1: Modelo de Orden Cero
 ### Tema 2: Introducción a la modelación numérica
