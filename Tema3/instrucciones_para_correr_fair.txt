@@ -1,0 +1,4 @@
+1. Abrir terminal. 
+2. Desde cualquier directorio, escribir:
+"pip install fair". 
+
