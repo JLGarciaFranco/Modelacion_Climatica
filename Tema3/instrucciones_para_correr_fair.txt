@@ -1,4 +1,4 @@
 1. Abrir terminal. 
 2. Desde cualquier directorio, escribir:
 "pip install fair". 
-
+Alternativamente, agregar una celda al principio del notebook con la instrucción: "pip install fair". 
